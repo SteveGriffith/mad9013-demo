@@ -2,4 +2,4 @@
 Demo used in class to show creation of a webpage from a graphic.
 
 Original template design from 
-[Wix.com](wix.com/demone2/creative-staffing1)
+[Wix.com](http://wix.com/demone2/creative-staffing1)
