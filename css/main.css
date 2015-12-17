@@ -16,7 +16,7 @@ html{
     font-family: Georgia, serif;
     text-rendering: optimizeLegibility !important;
     -webkit-font-smoothing: antialiased !important;
-    
+    font-smoothing: antialiased !important;
 }
 li{
     float:left;
